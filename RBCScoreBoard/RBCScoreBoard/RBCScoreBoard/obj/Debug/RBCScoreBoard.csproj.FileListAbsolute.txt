@@ -1,0 +1,17 @@
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\bin\Debug\RBCScoreBoard.exe.config
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\bin\Debug\RBCScoreBoard.exe
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\bin\Debug\RBCScoreBoard.pdb
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\bin\Debug\Interop.WMPLib.dll
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.AssemblyReference.cache
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\Interop.WMPLib.dll
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.ResolveComReference.cache
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.Form1.resources
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.Form2.resources
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.Properties.Resources.resources
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.GenerateResource.cache
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.csproj.CoreCompileInputs.cache
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.exe
+C:\Users\ChanT\source\repos\RBCScoreBoard2022\RBCScoreBoard\RBCScoreBoard\RBCScoreBoard\obj\Debug\RBCScoreBoard.pdb
